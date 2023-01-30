@@ -1,4 +1,12 @@
-### Hi there 👋
+## Oi Eu sou o <s>Goku</s>! :sweat_smile:
+### Na verdade não.
+### Meu nome é Fernando, seja bem-vindo, puxe uma :chair: e sinta-se confortável.
+
+<div>
+<a href="https://github.com/fmossatto">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmossatto&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmossatto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 **fmossatto/fmossatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
