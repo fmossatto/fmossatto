@@ -4,11 +4,10 @@
 
 <div>
 <a href="https://github.com/fmossatto">
-<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmossatto&layout=compact&langs_count=7&theme=tokyonight"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=fmossatto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-  
-<a href="https://git.io/streak-stats"><img width="825em" src="https://streak-stats.demolab.com?user=fmossatto&theme=tokyonight"/></a>
+<img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmossatto&layout=compact&langs_count=7&theme=tokyonight"/>
+<img width="416em" src="https://streak-stats.demolab.com?user=fmossatto&theme=tokyonight"/>
+<img width="830em" src="https://github-readme-stats.vercel.app/api?username=fmossatto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>  
 
 <!--
 **fmossatto/fmossatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
