@@ -8,7 +8,7 @@
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=fmossatto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fmossatto&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img width="825em" src="https://streak-stats.demolab.com?user=fmossatto&theme=tokyonight"/></a>
 
 <!--
 **fmossatto/fmossatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
